@@ -30,8 +30,8 @@ If there is no solution to the problem  print  "Solution does not exist"
 
 ## Program:
 ```
-Developed by: NISHA D
-Register Number: 212223230143
+Developed by: SAI VISHAL D
+Register Number: 212223230180
 
 
 import java.util.Scanner;
